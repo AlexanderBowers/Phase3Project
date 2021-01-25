@@ -27,3 +27,11 @@ walk away for 5 minutes
 deep breaths
 talk it out without interruption
 escalate to coach if need be
+
+user story:
+
+This will be a website for uploading images
+Users can create folders
+Users can open a folder to view its images
+Users can upload images to folders
+Users can delete folders and/or images
